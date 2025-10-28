@@ -21,7 +21,3 @@ PGCD de 48 et 18 est : 6
 👨‍💻 Réalisé par :
 khadija es-sarghini— Étudiante à l'EST kénitra
 khadija.es-sarghini@uit.ac.ma
-
----
-
-إذا بغيت نترجمو للعربية أو نعدلو شي حاجة، غير قولها لي.
