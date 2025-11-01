@@ -4,7 +4,7 @@ int main() {
     int a, b, temp;
     
     printf("Entrez deux entiers : ");
-    scanf("%d%d", &a, &b);
+    scanf("%d %d", &a, &b);
 
     int x = a, y = b;
 
